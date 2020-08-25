@@ -8,7 +8,7 @@ I have experience with software development working on range from frontend to ba
 
 Right now I'm seeking to finish my graduation in Computer Science at the Federal University of Alagoas, its 99% complete.  
 
-![Dayvson's Github Stats](https://github-readme-stats.vercel.app/api?username=dayvsonsales&count_private=true&theme=radical&show_icons=true&hide=stars)
+![Dayvson's Github Stats](https://github-readme-stats.vercel.app/api?username=dayvsonsales&include_all_commits=true&count_private=true&theme=radical&show_icons=true&hide=stars)
 
 <!--
 **dayvsonsales/dayvsonsales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
