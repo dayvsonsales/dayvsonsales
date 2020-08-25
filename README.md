@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Dayvson, a 23 years old Brazilian. 
+I'm Dayvson, 23 years old Brazilian. 
 
-I like to learn things and I'm currently learning about DevOps culture and mobile development with React Native.  
+I like to learn technologies and I'm currently learning about DevOps culture and mobile development with React Native.  
 
 I have experience with software development working on range from frontend to backend and DevOps too. 
 
