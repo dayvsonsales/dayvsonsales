@@ -6,8 +6,6 @@ I like to learn technologies and I'm currently learning about DevOps culture and
 
 I have experience with software development working on range from frontend to backend and DevOps too. 
 
-Right now I'm seeking to finish my graduation in Computer Science at the Federal University of Alagoas, its 99% complete.  
-
 ![Dayvson's Github Stats](https://github-readme-stats.vercel.app/api?username=dayvsonsales&include_all_commits=true&count_private=true&theme=radical&show_icons=true&hide=stars)
 
 <!--
