@@ -12,7 +12,7 @@ I'm Dayvson 😊
 <h3> 🛠 tech stack</h3>
 
 - 🎓 PHP | Java | Node.js | Elixir
-- 🖼 Laravel | CakePHP | React | React Native | Ionic | HTML | CSS | JavaScript | Bootstrap | jQuery
+- 🖼 Laravel | React | React Native | Ionic | HTML | CSS | JavaScript | Bootstrap | jQuery
 - 🛢 MySQL | PostgreSQL | MongoDB | Redis
 - ⛅️ IBM Cloud | AWS | DigitalOcean
 
