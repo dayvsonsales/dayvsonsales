@@ -16,11 +16,11 @@ I'm Dayvson 😊
 - 🛢 MySQL | PostgreSQL | MongoDB | Redis
 - ⛅️ IBM Cloud | AWS | DigitalOcean
 
+<!--
 <h2>💡 my github stats </h2>
 
 ![Dayvson's Github Stats](https://github-readme-stats.vercel.app/api?username=dayvsonsales&include_all_commits=true&count_private=true&theme=radical&show_icons=true&hide=stars)
 
-<!--
 **dayvsonsales/dayvsonsales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
