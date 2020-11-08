@@ -3,7 +3,7 @@
 I'm Dayvson 😊
 
 - 📚 I like to learn technologies
-- 📖 I'm currently studying about DevOps culture and mobile development with React Native.  
+- 📖 I'm currently studying DevOps culture and mobile development with React Native.  
 - 💼 I have experience with software development working on range from frontend to backend and DevOps too. My last project was [Projeto TATU](https://projetotatu.com.br), an accessibility project for tourism using IoT (with beacons) technology.
 - 🗺 I love to travel and live extreme adventures 
 
