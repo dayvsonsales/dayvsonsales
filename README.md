@@ -3,7 +3,7 @@
 I'm Dayvson 😊
 
 - 📚 I like to learn technologies
-- 📖 I'm currently studying serverless, microservices, and chaos engineering topics.  
+- 📖 I'm currently studying serverless, and microservices topics.  
 - 💼 I have experience with software development working on range from frontend to backend and DevOps too. My last project was [Projeto TATU](https://projetotatu.com.br) (in Portuguese), an accessibility project for tourism using IoT (with beacons) technology.
 - 🗺 I love to travel and live extreme adventures 
 
