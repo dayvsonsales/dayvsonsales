@@ -4,7 +4,7 @@ I'm Dayvson 😊
 
 - 📚 I like to learn technologies
 - 📖 I'm currently studying serverless and microservices topics.  
-- 💼 I have experience with software development working on range from frontend (basic level) to backend and DevOps too (just for fun).  My last project was [Projeto TATU](https://projetotatu.com.br) (in Portuguese), an accessibility project for tourism using IoT (with beacons) technology.
+- 💼 I have experience with software development working on mobile and web applications. I'm Software Engineer at @hurbcom
 - 🗺 I love to travel and live extreme adventures 
 
 <!-- this is an easter egg!!
