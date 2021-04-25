@@ -4,7 +4,7 @@ I'm Dayvson 😊
 
 - 📚 I like to learn technologies
 - 📖 I'm currently studying serverless and microservices topics.  
-- 💼 I have experience with software development working on mobile and web applications. I'm Software Engineer at @hurbcom
+- 💼 I have experience with software development working on mobile and web applications. I'm Software Engineer at Hurb
 - 🗺 I love to travel and live extreme adventures 
 
 <!-- this is an easter egg!!
